@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
+   sodipodi:docname="logo.svg"
+   id="svg849"
+   version="1.1"
+   height="600"
+   width="600"
+   viewBox="0 0 600 600"
+   style="isolation:isolate">
+  <metadata
+     id="metadata855">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs853" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg849"
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="560"
+     inkscape:cx="265.71429"
+     inkscape:zoom="0.35"
+     showgrid="false"
+     id="namedview851"
+     inkscape:window-height="847"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <clipPath
+     id="_clipPath_tymBwzCuxukZJIJObKsmehYLi7LjeS7O">
+    <rect
+       id="rect833"
+       fill="rgb(255,255,255)"
+       transform="matrix(1,0,0,1,0,0)"
+       height="600"
+       width="600"
+       y="0"
+       x="0" />
+  </clipPath>
+  <g
+     id="g845"
+     clip-path="url(#_clipPath_tymBwzCuxukZJIJObKsmehYLi7LjeS7O)">
+    <g
+       id="null">
+      <g
+         id="logo-background">
+        <linearGradient
+           y2="120.72835799734025%"
+           x2="70.69299381834155%"
+           y1="50%"
+           x1="0%"
+           id="_lgradient_2">
+          <stop
+             id="stop836"
+             style="stop-color:rgb(72,110,122)"
+             stop-opacity="1"
+             offset="0%" />
+          <stop
+             id="stop838"
+             style="stop-color:rgb(40,85,99)"
+             stop-opacity="1"
+             offset="100%" />
+        </linearGradient>
+        <rect
+           id="rect841"
+           fill="url(#_lgradient_2)"
+           transform="matrix(0,-1,1,0,0,600)"
+           height="600"
+           width="599.7"
+           y="0"
+           x="0.15" />
+      </g>
+    </g>
+  </g>
+  <text
+     id="text863"
+     y="212.85715"
+     x="95.714287"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.33329999999999416px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;"
+     xml:space="preserve"><tspan
+       y="212.85715"
+       x="95.714287"
+       id="tspan885"
+       sodipodi:role="line">Côte d'Or</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="102.15997"
+     y="492.46362"
+     id="text863-2"><tspan
+       y="492.46362"
+       x="102.15997"
+       id="tspan883"
+       sodipodi:role="line">Juniors</tspan></text>
+  <text
+     id="text863-2-2"
+     y="353.21054"
+     x="85.602493"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#ffffff;fill-opacity:1;stroke:none;"
+     xml:space="preserve"><tspan
+       y="353.21054"
+       x="85.602493"
+       sodipodi:role="line"
+       id="tspan883-2">Classic</tspan></text>
+</svg>
