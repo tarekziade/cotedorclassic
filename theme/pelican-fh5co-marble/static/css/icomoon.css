@@ -1796,3 +1796,10 @@
   content: "\eb1a";
 }
 
+.icon-bike:before {
+  content: "\1F6B2"
+}
+
+.icon-rocket: before {
+  content: "\1F680"
+}
