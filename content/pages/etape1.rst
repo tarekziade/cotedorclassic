@@ -6,8 +6,5 @@
 :summary: Darois ➔ Précy-sous-Thil
 :slug: etape1
 
-Titre
-~~~~~
-
 XXX
 

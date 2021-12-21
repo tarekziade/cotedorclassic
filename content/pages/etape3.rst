@@ -6,8 +6,5 @@
 :summary: Pouilly-en-Auxois ➔ Semur-en-Auxois
 :slug: etape3
 
-Titre
-~~~~~
-
 XXX
 

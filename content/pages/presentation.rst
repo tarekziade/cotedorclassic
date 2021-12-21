@@ -4,6 +4,7 @@ Présentation
 :order: 12
 :icon: icon-about
 :slug: presentation
+:summary: Édition 2022
 
 L’année 2022 accueillera la première édition de la Côte d’Or Classic Juniors.
 Cette nouvelle épreuve réservée à la fougue des juniors organisée par la Pédale

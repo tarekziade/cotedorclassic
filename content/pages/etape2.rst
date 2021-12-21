@@ -6,8 +6,5 @@
 :summary: Crugey ➔ Vandenesse-en-Auxois
 :slug: etape2
 
-Titre
-~~~~~
-
 XXX
 
