@@ -132,10 +132,6 @@ figure figcaption {
   width: auto !important;
 }
 
-#fh5co-aside #fh5co-logo img {
-  border-radius: 50%;
-
-}
 @media screen and (max-width: 768px) {
   #fh5co-aside #fh5co-logo {
     margin-bottom: 1em;

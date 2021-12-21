@@ -1,4 +1,4 @@
-AUTHOR = "Amélie De Vecchi"
+AUTHOR = "Anthony De Vecchi"
 SITENAME = "Côte d'Or Classic Juniors"
 SITEURL = ""
 
@@ -91,11 +91,11 @@ PAGE_ORDER_BY = 'order'
 
 
 MENUITEMS = [
+  ('Présentation', 'pages/presentation.html'),
   ('Étape 1', 'pages/etape1.html'),
   ('Étape 2', 'pages/etape2.html'),
   ('Étape 3', 'pages/etape3.html'),
-  ('Infos', 'pages/infos.html'),
-  ('A propos', 'pages/apropos.html')
+  ('Infos', 'pages/infos.html')
 ]
 
 DIRECT_TEMPLATES = [
