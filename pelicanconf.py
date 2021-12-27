@@ -89,7 +89,7 @@ MENUITEMS = [
   ('Étape 2', 'pages/etape2.html'),
   ('Étape 3', 'pages/etape3.html'),
   ('Infos', 'pages/infos.html'),
-  ('Contact', 'contact.html')
+  ('Partenaires', 'pages/partenaires.html')
 ]
 
 DIRECT_TEMPLATES = [
