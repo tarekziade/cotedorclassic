@@ -69,16 +69,9 @@ HERO = [
 
 ABOUT = {
   'image': '/images/about/about.jpeg',
-  'mail': 'info@gitcd.io',
+  'mail': 'cotedorclassicjuniors@gmail.com',
   # keep it a string if you dont need multiple languages
-  'text': {
-    'en': 'Learn more about the creator of this theme or just drop a message.',
-    'de': 'Lernen Sie den Author kennen oder hinterlassen Sie einfach eine Nachricht'
-  },
-  'link': 'contact.html',
-  # the address is also taken for google maps
-  'address': 'Zürich, Schweiz',
-  'phone': '+555-shoe'
+  'text': 'Contacter Anthony',
 }
 
 # navigation and homepage options
@@ -95,7 +88,8 @@ MENUITEMS = [
   ('Étape 1', 'pages/etape1.html'),
   ('Étape 2', 'pages/etape2.html'),
   ('Étape 3', 'pages/etape3.html'),
-  ('Infos', 'pages/infos.html')
+  ('Infos', 'pages/infos.html'),
+  ('Contact', 'contact.html')
 ]
 
 DIRECT_TEMPLATES = [
@@ -108,4 +102,4 @@ DIRECT_TEMPLATES = [
   'contact' # needed for the contact form
 ]
 
-GOOGLE_MAPS_KEY = 'AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA'
+GOOGLE_MAPS_KEY = False   #'AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA'
