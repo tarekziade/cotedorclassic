@@ -102,4 +102,10 @@ DIRECT_TEMPLATES = [
   'contact' # needed for the contact form
 ]
 
+SOCIAL = (
+  ('Facebook', 'https://www.facebook.com/lacotedorclassicjuniors'),
+  ('Instagram', 'https://instagram.com/lacotedorclassicjuniors'),
+)
+
+
 GOOGLE_MAPS_KEY = False   #'AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA'

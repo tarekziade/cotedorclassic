@@ -5,7 +5,7 @@ Partenaires
 :icon: icon-information
 :slug: partenaires
 :summary: Merci à tous nos partenaires
-
+:image: /images/photo-region-1.jpg
 
 .. raw:: html
 

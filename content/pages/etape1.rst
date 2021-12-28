@@ -5,6 +5,7 @@
 :icon: icon-compass
 :summary: Darois ➔ Précy-sous-Thil
 :slug: etape1
+:image: /images/coureurs-2.jpg
 
 - **Distance** 93km
 - **Dénivelé** 1226m

@@ -1,6 +1,6 @@
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -95,8 +95,8 @@ figure figcaption {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-#fh5co-aside::-webkit-scrollbar { 
-    display: none; 
+#fh5co-aside::-webkit-scrollbar {
+    display: none;
 }
 
 @media screen and (max-width: 1200px) {
@@ -623,14 +623,44 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   transform: translate3d(0, 0, 0);
 }
 
-.fh5co-lead {
-  font-size: 18px;
-  line-height: 1.5;
+@media screen and (max-width: 768px) {
+  .fh5co-heading-colored {
+    color: white;
+    font-size: 30px;
+  }
+  .hpage-header {
+    text-shadow: black 2px 2px;
+    text-align: center;
+    background-size: cover;
+    padding: 15px;
+    height: 150px;
+    background-repeat: no-repeat;
+  }
+ .hpage-summary {
+    font-size: 15px;
+    line-height: 1.5;
+    color: white;
+  }
 }
 
-.fh5co-heading-colored {
-  color: #057db6;
-  font-size: 30px;
+@media screen and (min-width: 768px) {
+  .fh5co-heading-colored {
+    color: white;
+    font-size: 60px;
+  }
+  .hpage-header {
+    text-shadow: black 2px 2px;
+    text-align: center;
+    background-size: cover;
+    padding: 20px;
+    height: 300px;
+    background-repeat: no-repeat;
+  }
+  .hpage-summary {
+    font-size: 30px;
+    line-height: 1.5;
+    color: white;
+  }
 }
 
 .fh5co-cards {

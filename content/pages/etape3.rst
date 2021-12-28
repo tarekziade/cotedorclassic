@@ -5,6 +5,7 @@
 :icon: icon-compass
 :summary: Pouilly-en-Auxois ➔ Semur-en-Auxois
 :slug: etape3
+:image: /images/semur.jpg
 
 - **Distance** 105km
 - **Dénivelé** 1410m
