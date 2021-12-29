@@ -47,3 +47,6 @@ Contact
 
 - Par téléphone: 07.68.97.14.35
 - Par e-mail: cotedorclassicjuniors@gmail.com
+
+`Mentions légales </pages/mentions.html>`_
+
