@@ -21,7 +21,7 @@ Partenaires
   <img src="/images/partenaires/mt.png"
        style="margin: 4px;max-width: 29%; max-height: 200px"/>
 
-  <img src="/images/partenaires/ame-style.png"
+  <img src="/images/partenaires/polytherm.png"
        style="margin: 4px;max-width: 29%; max-height: 200px"/>
 
   <img src="/images/partenaires/autosur.jpg"

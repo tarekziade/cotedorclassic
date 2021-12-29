@@ -14,7 +14,7 @@
 - **Protocole** 11h20
 
 Le dimanche matin, ce sera l’heure du contre la montre par équipe. Les coureurs
-seront au pied de Châteauneuf, l’un des plus beaux villages de France puis
+seront au pied de Châteauneuf, l’un des plus beaux villages de France. Puis ils
 feront le tour du lac de Panthier, lac d’alimentation le plus important du
 Canal de Bourgogne.
 

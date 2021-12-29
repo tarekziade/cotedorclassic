@@ -26,11 +26,10 @@ délégations olympiques pour 2024.
         src="https://veloviewer.com/routes/2910472425578950114/embed2"
         width="300" height="150" frameborder="0" scrolling="no"></iframe></p>
 
-Le final de l’étape se fera sur un circuit de
-11km empruntant les pavés semurois et une ascension à parcourir 3 fois. Une
-bonne partie du parcours des championnats de France professionnels qui
-s’étaient déroulés ici en 2008.
-
+Le final de l’étape se fera sur un circuit de 11km empruntant les pavés
+semurois et une ascension à parcourir 3 fois. Une bonne partie du parcours
+pourra donc vous rappelez des souvenirs des championnats de France
+professionnels qui s’étaient déroulés ici en 2008.
 
 .. raw:: html
 

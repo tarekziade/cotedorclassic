@@ -28,7 +28,7 @@ Rendez-vous le Samedi 16 avril à la salle des fêtes de Darois.
 Qui peut participer ?
 =====================
 
-Les épreuves sont réservées aux Junior.e.s par équipe de 6.
+Les épreuves sont réservées aux Juniors par équipe de 6.
 
 Les équipes peuvent être :
 
