@@ -27,38 +27,41 @@ function emailIsValid($value) {
 
 function sendForm($data) {
 	$sent = false;
-	$body = " A form was sent with the following values.
+	$body = " Vous avez recu une demande sur le site.
 
-<b>Name:</b><blockquote>" . utf8_decode($data['name']) . "</blockquote>
+<b>Nom:</b><blockquote>" . utf8_decode($data['name']) . "</blockquote>
 <b>Email:</b><blockquote>" . utf8_decode($data['email']) . "</blockquote>
-<b>Phone:</b><blockquote>" . utf8_decode($data['phone']) . "</blockquote>
+<b>Telephone:</b><blockquote>" . utf8_decode($data['phone']) . "</blockquote>
 <b>Message:</b><blockquote>" . utf8_decode($data['message']) . "</blockquote>";
 
-	try {
+	//try {
 		$mail = new PHPMailer(true);
 		$mail->IsSMTP();
 
 
 		//$mail->SMTPDebug  = 2;
-		$mail->SMTPAuth   = true;
-		$mail->SMTPSecure = "tls";
-		$mail->Host       = SMTP_SERVER;
+		//$mail->SMTPAuth   = true;
+		//$mail->SMTPSecure = "tls";
+		$mail->SMTPAutoTLS = false;
+                $mail->SMTPSecure = false;
+                $mail->Host       = SMTP_SERVER;
 		$mail->Port       = SMTP_PORT;
-		$mail->Username   = SMTP_USER;
-		$mail->Password   = SMTP_PASS;
+		//$mail->Username   = SMTP_USER;
+		//$mail->Password   = SMTP_PASS;
 		$mail->AddReplyTo(SMTP_USER, SMTP_REALNAME);
-		$mail->AddAddress(RECEIPIENT, RECEIPIENT_REALNAME);
+		$mail->AddAddress(RECIPIENT, RECIPIENT_REALNAME);
 		$mail->AddAddress(SMTP_USER, SMTP_REALNAME);
 		$mail->SetFrom(SMTP_USER, SMTP_REALNAME);
-		$mail->Subject = 'Formular von ' . $data['email'] . ' ' . $data['name'];
+		$mail->Subject = 'Demande de ' . $data['name'] . ' ' . $data['email'];
 		$mail->AltBody = $body;
 		$mail->MsgHTML(nl2br($body));
 		$mail->Send();
 
 		$sent = true;
-	} catch (Exception $e) {
+	/*} catch (Exception $e) {
+		print(e);
 		$sent = false;
-	}
+		}*/
 	return $sent;
 }
 
