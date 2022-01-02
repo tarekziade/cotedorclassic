@@ -7,7 +7,7 @@
 :slug: etape2
 :image: /images/coureurs-3.jpg
 
-- **Distance** 19km
+- **Distance** 20.3km
 - **Dénivelé** 106m
 - **Départ** 9h30
 - **Arrivée dernière équipe** ~11h00
