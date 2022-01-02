@@ -68,9 +68,8 @@ HERO = [
 ]
 
 ABOUT = {
-  'image': '/images/about/about.jpeg',
   'mail': 'cotedorclassicjuniors@gmail.com',
-  # keep it a string if you dont need multiple languages
+  'phone': '07.68.97.14.35',
   'text': 'Contacter Anthony',
 }
 
@@ -89,8 +88,9 @@ MENUITEMS = [
   ('Étape 2', 'pages/etape2.html'),
   ('Étape 3', 'pages/etape3.html'),
   ('Infos', 'pages/infos.html'),
-  ('Partenaires', 'pages/partenaires.html')
-]
+  ('Partenaires', 'pages/partenaires.html'),
+  ('Contact', 'contact.html')
+  ]
 
 DIRECT_TEMPLATES = [
   'index',

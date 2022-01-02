@@ -42,11 +42,6 @@ Comment s'inscrire ?
 
 Pour vous inscrire, télécharger le `dossier de candidature </images/dossier.pdf>`_
 
-Contact
-=======
-
-- Par téléphone: 07.68.97.14.35
-- Par e-mail: cotedorclassicjuniors@gmail.com
 
 `Mentions légales </pages/mentions.html>`_
 
