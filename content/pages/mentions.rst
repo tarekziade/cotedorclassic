@@ -17,7 +17,7 @@ contacter `Tarek Ziadé <mailto:tarek@ziade.org>`_
 Ce site ne stocke aucun cookie direct ou autre traceur sur votre ordinateur ou téléphone. Cependant, ce site utilise pour les tracés GPS
 les vues fournies par VeloViewer, qui lui-même utilise des cookies et récolte des informations de visites. Lisez la `privacy policy de VeloViewer ici <https://blog.veloviewer.com/privacy-policy-2/>`_. Vous
 pouvez désactiver ces cookies tiers en vous référant à la documentation de votre naviguateur. Cette modification entraînera cependant un
-disfonctionnement des tracés affichées sur le site.
+disfonctionnement des tracés affichés sur le site.
 
 Ce site ne stocke aucune de vos données personnelles, hormis votre
 addresse IP lors de vos visites, qui est stockée dans les fichiers
