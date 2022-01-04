@@ -1,3 +1,7 @@
 lib
 bin
 include
+__pycache__
+*.un~
+.DS_Store
+output

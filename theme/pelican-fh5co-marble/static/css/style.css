@@ -18,6 +18,17 @@ body {
   }
 }
 
+img.partenaire {
+  max-width: 200px!important;
+  max-height: 200px!important;
+  margin: 10px
+}
+
+div.partenaires {
+  margin-bottom: 15px;
+}
+
+
 a {
   color: #057db6;
   -webkit-transition: 0.5s;

@@ -7,47 +7,98 @@ Partenaires
 :summary: Merci à tous nos partenaires
 :image: /images/photo-region-1.jpg
 
+Collectivites
+-------------
+
 .. raw:: html
 
-   <img src="/images/partenaires/renault.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+  <div class="container partenaires">
+    <div class="row">
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/cote-d-or.png"/>
+      </div>
 
-  <img src="/images/partenaires/crai.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/semur.png"/>
+      </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/oms.png"/>
+      </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/pouilly.png"/>
+      </div>
 
-  <img src="/images/partenaires/dynatest.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/bcf.png"/>
+      </div>
+    </div>
+  </div>
 
-  <img src="/images/partenaires/mt.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
 
-  <img src="/images/partenaires/polytherm.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+Partenaires majeurs
+-------------------
 
-  <img src="/images/partenaires/autosur.jpg"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
 
-  <img src="/images/partenaires/btp-anjoubault.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+.. raw:: html
 
-  <img src="/images/partenaires/cote-d-or.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+  <div class="container partenaires">
+    <div class="row">
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/crai.png"/>
+      </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/groupama.png"/>
+      </div>
 
-  <img src="/images/partenaires/doras.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/cantali.png"/>
+      </div>
 
-  <img src="/images/partenaires/icseo.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/doras.png"/>
+      </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/icseo.png"/>
+      </div>
 
-  <img src="/images/partenaires/ponzo.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/btp-anjoubault.png"/>
+      </div>
 
-  <img src="/images/partenaires/cantali.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
 
-  <img src="/images/partenaires/semur.png"
-       style="margin: 4px;max-width: 29%; max-height: 200px"/>
+    </div>
+  </div>
 
-  <img src="/images/partenaires/bcf.png"
-       style="margin: 4px; max-width: 29%; max-height: 200px"/>
+Partenaires officiels
+---------------------
+
+.. raw:: html
+
+  <div class="container partenaires">
+    <div class="row">
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/renault.png"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/dynatest.png"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/mt.png"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/polytherm.png"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/autosur.jpg"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/ponzo.png"/>
+      </div>
+    </div>
+  </div>
 
