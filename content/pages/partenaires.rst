@@ -43,13 +43,19 @@ Partenaires majeurs
 
   <div class="container partenaires">
     <div class="row">
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/aeropix.png"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/novelli.png"/>
+      </div>
+
+
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/crai.png"/>
       </div>
-      <div class="col-md-4 text-center">
-        <img class="partenaire" src="/images/partenaires/groupama.png"/>
-      </div>
-
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/cantali.png"/>
       </div>
@@ -60,9 +66,16 @@ Partenaires majeurs
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/icseo.png"/>
       </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/mt.png"/>
+      </div>
 
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/btp-anjoubault.png"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/groupama.png"/>
       </div>
 
 
@@ -82,10 +95,6 @@ Partenaires officiels
 
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/dynatest.png"/>
-      </div>
-
-      <div class="col-md-4 text-center">
-        <img class="partenaire" src="/images/partenaires/mt.png"/>
       </div>
 
       <div class="col-md-4 text-center">
