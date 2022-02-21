@@ -108,6 +108,44 @@ Partenaires officiels
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/ponzo.png"/>
       </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/rebus.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/pro-et-cie.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/lecler.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/intermarche.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/girard.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/gamm-vert.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/credit-mutuel.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/chef-de-file-custom.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/chef-de-file.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/centre-auto.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/caisse-epargne.png"/>
+      </div>
+       <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/brasserie-inter.png"/>
+      </div>
+
     </div>
   </div>
 
