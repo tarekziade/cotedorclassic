@@ -5,7 +5,6 @@ Appel à volontaires
 :image: /images/organisation.jpg
 :tags: appel, organisation, benevoles
 :summary:
-:lang: en
 :slug: appel
 
 .. raw:: html

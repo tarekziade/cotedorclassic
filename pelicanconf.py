@@ -89,7 +89,7 @@ MENUITEMS = [
   ('Étape 3', 'pages/etape3.html'),
   ('Infos', 'pages/infos.html'),
   ('Partenaires', 'pages/partenaires.html'),
-  ('Livre de route', 'livret.pdf'),
+  ('Livre de route', 'images/livret.pdf'),
   ('Contact', 'contact.html')
   ]
 
