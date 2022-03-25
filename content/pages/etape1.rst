@@ -9,7 +9,7 @@
 
 - **Distance** 93km
 - **Dénivelé** 1226m
-- **Départ** 14h30, rue de l’aviation à Darois
+- **Départ** 14h15, rue de l’aviation à Darois
 - **Arrivée** ~17h00 rue de l’église  à Précy-sous-Thil
 - **Protocole** 17h15
 

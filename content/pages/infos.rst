@@ -23,7 +23,7 @@ Rendez-vous le Samedi 16 avril à la salle des fêtes de Darois.
 - 10h - Accueil des équipes
 - 11h45 - Réunion des directeurs sportifs
 - 12h20 - Réunion des pilotes
-- 14h00 - Présentations et signatures des équipes
+- 13h00 - Présentations et signatures des équipes
 
 Qui peut participer ?
 =====================

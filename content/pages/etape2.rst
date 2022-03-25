@@ -9,7 +9,7 @@
 
 - **Distance** 20.3km
 - **Dénivelé** 106m
-- **Départ** 9h30
+- **Départ** 9h00
 - **Arrivée dernière équipe** ~11h00
 - **Protocole** 11h20
 

@@ -23,7 +23,7 @@ se livrer à une belle bataille « sportive ». Par son tracé, la Côte d’Or
 Classic Juniors saura faire apprécier les panoramas vallonnés de l’Ouche, du
 Morvan et de l’Auxois.
 
-Ce peloton sera formé par plus de 120 coureurs venant de toutes nationalités.
+Ce peloton sera formé par plus de 168 coureurs venant de toutes nationalités.
 Je leur souhaite à tous un bon courage pour cette aventure dans notre campagne.
 Nul doute que les plus forts trouveront un terrain de jeu parfait pour exprimer
 le meilleur de leur potentiel. Quant au moins aguerris, je souhaite qu’ils

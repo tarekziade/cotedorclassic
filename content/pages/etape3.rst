@@ -9,7 +9,7 @@
 
 - **Distance** 105km
 - **Dénivelé** 1410m
-- **Départ** 14h30
+- **Départ** 14h15
 - **Arrivée** ~17h00
 - **Protocole** 17h30
 
