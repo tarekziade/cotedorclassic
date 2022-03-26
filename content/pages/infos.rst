@@ -14,6 +14,8 @@ La Côte d'Or Classic Juniors c'est:
 - 200 km dans le week-end
 - 7 nationalités
 
+`Télécharger le guide technique </images/livret.pdf>`_
+
 
 Lieu de rendez-vous
 ===================
@@ -24,23 +26,6 @@ Rendez-vous le Samedi 16 avril à la salle des fêtes de Darois.
 - 11h45 - Réunion des directeurs sportifs
 - 12h20 - Réunion des pilotes
 - 13h00 - Présentations et signatures des équipes
-
-Qui peut participer ?
-=====================
-
-Les épreuves sont réservées aux Juniors par équipe de 6.
-
-Les équipes peuvent être :
-
-- des clubs
-- des sélections départementales ou bi-départementales
-- des équipes mixtes
-- des sélections régionales
-
-Comment s'inscrire ?
-====================
-
-Pour vous inscrire, télécharger le `dossier de candidature </images/dossier.pdf>`_
 
 
 `Mentions légales </pages/mentions.html>`_
