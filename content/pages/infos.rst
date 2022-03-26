@@ -16,6 +16,11 @@ La Côte d'Or Classic Juniors c'est:
 
 `Télécharger le guide technique </images/livret.pdf>`_
 
+Equipes sélectionnées
+=====================
+
+.. image::
+   /images/equipes.jpg
 
 Lieu de rendez-vous
 ===================
