@@ -90,7 +90,7 @@ MENUITEMS = [
   ('Infos', 'pages/infos.html'),
   ('Partenaires', 'pages/partenaires.html'),
   ('Livret Public', 'images/livret_public.pdf'),
-  ('Contact', 'contact.html')
+  ('Contact', 'contact.html'),
   ('A propos', 'pages/mentions.html')
   ]
 
