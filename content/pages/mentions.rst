@@ -21,7 +21,7 @@ pouvez désactiver ces cookies tiers en vous référant à la documentation de v
 disfonctionnement des tracés affichés sur le site.
 
 Ce site ne stocke aucune de vos données personnelles, hormis votre
-addresse IP lors de vos visites, qui est stockée dans les fichiers
+adresse IP lors de vos visites, qui est stockée dans les fichiers
 de log de Nginx du serveur.
 
 Sauf mentions spécifiques, le contenu du site et son logo sont la propriété
