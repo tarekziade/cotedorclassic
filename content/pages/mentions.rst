@@ -6,13 +6,14 @@ Mentions légales
 :image: /images/coureurs-4.jpg
 :summary: GPRD, etc.
 
-Ce site a été conçu avec les outils suivants:
+Ce site a été entièrement et conçu et gracieusement hébergé et administré par Tarek Ziadé.
+
+Les outils suivants ont été utilisés:
 
 - Le générateur `Pelican <https://github.com/getpelican/pelican>`_ sous licence GPL
 - Le thème `pelican-fh5co-marble <https://github.com/claudio-walser/pelican-fh5co-marble/>`_ sous licence CC BY 3.0
 
-Si vous rencontrez un problème technique avec le site, merci de
-contacter `Tarek Ziadé <mailto:tarek@ziade.org>`_
+Si vous rencontrez un problème technique avec le site, merci de contacter `Tarek Ziadé <mailto:tarek@ziade.org>`_
 
 Ce site ne stocke aucun cookie direct ou autre traceur sur votre ordinateur ou téléphone. Cependant, ce site utilise pour les tracés GPS
 les vues fournies par VeloViewer, qui lui-même utilise des cookies et récolte des informations de visites. Lisez la `privacy policy de VeloViewer ici <https://blog.veloviewer.com/privacy-policy-2/>`_. Vous

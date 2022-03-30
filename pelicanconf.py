@@ -91,6 +91,7 @@ MENUITEMS = [
   ('Partenaires', 'pages/partenaires.html'),
   ('Livret Public', 'images/livret_public.pdf'),
   ('Contact', 'contact.html')
+  ('A propos', 'pages/mentions.html')
   ]
 
 DIRECT_TEMPLATES = [
