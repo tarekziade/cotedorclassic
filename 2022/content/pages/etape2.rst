@@ -5,7 +5,7 @@
 :icon: icon-compass
 :summary: Crugey ➔ Vandenesse-en-Auxois
 :slug: etape2
-:image: /images/coureurs-3.jpg
+:image: /2022/images/coureurs-3.jpg
 
 - **Distance** 20.3km
 - **Dénivelé** 106m

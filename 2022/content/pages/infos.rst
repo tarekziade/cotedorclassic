@@ -4,7 +4,7 @@ Informations pratiques
 :order: 11
 :icon: icon-information
 :slug: infos
-:image: /images/coureurs-1.jpg
+:image: /2022/images/coureurs-1.jpg
 :summary: Accueil, contact, inscriptions, etc.
 
 La Côte d'Or Classic Juniors c'est:

@@ -5,7 +5,7 @@ Présentation
 :icon: icon-about
 :slug: presentation
 :summary: Édition 2022
-:image: /images/photo-region-2.jpg
+:image: /2022/images/photo-region-2.jpg
 
 
 L’année 2022 accueillera la première édition de la Côte d’Or Classic Juniors.

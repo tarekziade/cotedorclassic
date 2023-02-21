@@ -3,7 +3,7 @@ Mentions légales
 
 :icon: icon-information
 :slug: mentions
-:image: /images/coureurs-4.jpg
+:image: /2022/images/coureurs-4.jpg
 :summary: GPRD, etc.
 
 Ce site a été entièrement et conçu et gracieusement hébergé et administré par Tarek Ziadé.

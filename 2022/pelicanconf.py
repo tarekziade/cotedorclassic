@@ -42,7 +42,7 @@ RELATIVE_URLS = True
 # special content
 HERO = [
     {
-        "image": "/images/hero/background-1.jpg",
+        "image": "/2022/images/hero/background-1.jpg",
         "title": "16 Avril ~ Étape 1",
         "text": "Darois ➔ Précy-sous-Thil",
         "links": [
@@ -50,7 +50,7 @@ HERO = [
         ],
     },
     {
-        "image": "/images/hero/background-2.jpg",
+        "image": "/2022/images/hero/background-2.jpg",
         "title": "17 avril ~ Étape 2",
         "text": "Crugey ➔ Vandenesse-en-Auxois",
         "links": [
@@ -58,7 +58,7 @@ HERO = [
         ],
     },
     {
-        "image": "/images/hero/background-3.jpg",
+        "image": "/2022/images/hero/background-3.jpg",
         "title": "17 Avril ~ Étape 3",
         "text": "Pouilly-en-Auxois ➔ Semur-en-Auxois",
         "links": [
@@ -91,7 +91,8 @@ MENUITEMS = [
   ('Partenaires', 'pages/partenaires.html'),
   ('Livret Public', 'images/livret_public.pdf'),
   ('Contact', 'contact.html'),
-  ('A propos', 'pages/mentions.html')
+  ('A propos', 'pages/mentions.html'),
+  ('Épreuve 2023', '/index.html'),
   ]
 
 DIRECT_TEMPLATES = [
