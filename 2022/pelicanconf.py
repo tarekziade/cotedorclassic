@@ -15,7 +15,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # logo path, needs to be stored in PATH Setting
-LOGO = "/images/logo.svg"
+LOGO = "/2022/images/logo.svg"
 
 DEFAULT_PAGINATION = False
 
