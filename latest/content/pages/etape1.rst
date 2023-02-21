@@ -1,26 +1,25 @@
-Étape 1 - 16 avril
+Étape 1 - 15 avril
 ##################
 
 :order: 1
 :icon: icon-compass
-:summary: Darois ➔ Précy-sous-Thil
+:summary: Saulieu ➔ Précy-sous-Thil
 :slug: etape1
 :image: /images/coureurs-2.jpg
 
-- **Distance** 93km
-- **Dénivelé** 1226m
-- **Départ** 14h15, rue de l’aviation à Darois
-- **Arrivée** ~17h00 rue de l’église  à Précy-sous-Thil
+- **Distance** 115km
+- **Dénivelé** 1340m
+- **Départ** 13h30
+- **Arrivée** ~15h40 rue de l’église à Précy-sous-Thil
 - **Protocole** 17h15
 
-Darois sera la ville de départ de la première étape de la Côte d’Or Classic
-Juniors qui se terminera à Précy-sous-Thil avec un circuit final de 11km à
-parcourir 2 fois.
 
-Après un passage à proximité du circuit automobile
-Dijon/Prenois, les coureurs emprunteront beaucoup de petites routes escarpées
-favorisant les échappées. La montée sur Charny sera la principale difficulté de
-l’étape avant l’arrivée aux portes du Parc Naturel du Morvan.
+Avec cette première étape, le peloton réalisera une visite touristique du
+Morvan en sillonnant les bords des lacs de Chamboux, Champeau, St Brisson et St
+Agnan, entre les forêts de sapins et la difficulté de ce beau paysage.
+
+Cette première étape de la Côte d’Or Classic U19 se terminera une nouvelle fois
+à Précy-sous-Thil avec un circuit final de 11km à parcourir 4 fois.
 
 .. raw:: html
 

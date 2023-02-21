@@ -1,22 +1,25 @@
-Étape 2 ~ 17 avril matin
+Étape 2 ~ 16 avril matin
 ########################
 
 :order: 2
 :icon: icon-compass
-:summary: Crugey ➔ Vandenesse-en-Auxois
+:summary: Époisses ➔ Époisses
 :slug: etape2
 :image: /images/coureurs-3.jpg
 
-- **Distance** 20.3km
-- **Dénivelé** 106m
-- **Départ** 9h00
+- **Distance** 17km
+- **Dénivelé** 100m
+- **Départ** 8h30
 - **Arrivée dernière équipe** ~11h00
-- **Protocole** 11h20
+- **Protocole** 11h15
 
-Le dimanche matin, ce sera l’heure du contre la montre par équipe. Les coureurs
-seront au pied de Châteauneuf, l’un des plus beaux villages de France. Puis ils
-feront le tour du lac de Panthier, lac d’alimentation le plus important du
-Canal de Bourgogne.
+Principal changement pour cette deuxième édition, le contre-la-montre
+individuel à Epoisses permettra de répondre à l’envie de la municipalité,
+accueillir notre épreuve afin de réaliser un événement populaire et festif pour
+les habitants.
+
+Ce théâtre du contre-la-montre individuel est un parcours de 17km, sur un
+terrain relativement plat et à la merci du vent.
 
 .. raw:: html
 
