@@ -4,39 +4,39 @@ Présentation
 :order: 12
 :icon: icon-about
 :slug: presentation
-:summary: Édition 2022
-:image: /images/photo-region-2.jpg
+:summary: Édition 2023
+:image: /images/anthony_micro.jpg
 
+L’enthousiasme suscité par vos retours sur cette première édition de la Côte
+d’Or Classic U19 à sceller son inscription dans le calendrier. Cet encrage est
+notamment encouragé par l’attribution du label « Coupe de France », permettant
+ainsi que le haut niveau U19 viennent mettre en lumière le travail des
+bénévoles, les paysages de la Côte d’Or, du Morvan à l’Auxois !
 
-L’année 2022 accueillera la première édition de la Côte d’Or Classic Juniors.
+A cette occasion, nous avons redoublé d’exigence. A commencer par le parcours,
+certainement plus relevé avec 2 100m D+ pour 215km mais encore plus beau et
+diversifié.
 
-Cette nouvelle épreuve réservée à la fougue des juniors est organisée par la
-Pédale Semuroise et le Dijon Sport Cyclisme. Elle vous offrira la garantie
-d’avoir un beau spectacle. D’ores et déjà, toutes les communes étapes sont
-heureuses d’accueillir cette épreuve, bien que la crise sanitaire soit
-présente.
+La première étape sera une parfaite visite touristique du Morvan.
+Les passages aux bords des lacs de Chamboux, Champeau et St Agnan, entre les
+forêts de sapins. La beauté et au bonheur de nos juniors, la dureté des
+paysages. Cette étape ne sera que le début d’un week-end, digne d’une belle
+bagarre entre les meilleurs Juniors.
 
-Le temps d’un week-end, nous avons aménagé un parcours à travers les routes du
-département de la Côte d’Or, afin que les coureurs puissent profiter de la
-richesse de nos paysages mais aussi utiliser la difficulté de nos routes pour
-se livrer à une belle bataille « sportive ». Par son tracé, la Côte d’Or
-Classic Juniors saura faire apprécier les panoramas vallonnés de l’Ouche, du
-Morvan et de l’Auxois.
+Le lendemain, c’est au cœur de la ville d’Epoisses, théâtre du contre-la-montre
+individuel, que les coureurs parcourront les 16kms, sur un terrain relativement
+plat et à la merci du vent.
 
-Ce peloton sera formé par plus de 168 coureurs venant de toutes nationalités.
-Je leur souhaite à tous un bon courage pour cette aventure dans notre campagne.
-Nul doute que les plus forts trouveront un terrain de jeu parfait pour exprimer
-le meilleur de leur potentiel. Quant au moins aguerris, je souhaite qu’ils
-parviennent à prendre du plaisir sur cette épreuve et qu’elle leur servira
-d’étape dans leur apprentissage.
+Pour finir cette deuxième édition, sur les bases de l’année dernière et
+toujours sur celle du championnat de France 2008, la ville de Semur-en-Auxois
+accueillera à nouveau l’arrivée finale après un départ de Pouilly-en-Auxois.
+Nul ne doute que les mythiques pavés et la côte de Villars ne seront pas sans
+conséquence sur le dénouement de l’épreuve.
 
-En tant que directeur de l’organisation, je remercie tous les partenaires qui
-nous soutiennent ; le Conseil Départemental de Côte d’Or et la Région de
-Bourgogne Franche Comté, les villes étapes qui nous accueillent, les
-partenaires privés, ainsi que tous les bénévoles et les clubs associés avec
-lesquels je suis fier de coopérer et de m’associer !
-
-Sans le travail et le soutien financiers, logistiques et humains de tous ces
-acteurs, un tel événement ne pourrait pas se tenir sur notre territoire !
+A nouveau cet événement permettra de faire découvrir aux coureurs, aux équipes,
+aux accompagnateurs et aux officiels notre « Terre de Jeux ».  Cette année, 3
+heures de retransmission en direct, seront également une opportunité de suivre
+cette manche de la Coupe de France U19, et de mettre en lumière notre
+patrimoine naturel, culturel et historique !
 
 -- Anthony DE VECCHI Directeur de la Côte d’Or Classic Juniors
