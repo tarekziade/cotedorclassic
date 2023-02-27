@@ -142,10 +142,12 @@ Partenaires officiels
        <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/caisse-epargne.png"/>
       </div>
-       <div class="col-md-4 text-center">
+      <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/brasserie-inter.png"/>
       </div>
-
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/corai.png"/>
+      </div>
     </div>
   </div>
 
