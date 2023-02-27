@@ -24,7 +24,7 @@ Cette première étape de la Côte d’Or Classic U19 se terminera une nouvelle 
 .. raw:: html
 
    <iframe loading="lazy" style="width: 100%; height: 600px;"
-        src="https://veloviewer.com/routes/2909205567425183762/embed2"
+        src="https://veloviewer.com/routes/3013721227603172948/embed2"
         width="300" height="150" frameborder="0" scrolling="no"></iframe></p>
 
 

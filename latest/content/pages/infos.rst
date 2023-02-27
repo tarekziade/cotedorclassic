@@ -19,7 +19,7 @@ Lieu de rendez-vous
 
 Rendez-vous le samedi 15 avril à l’Espace Jean Bertin, 21210 Saulieu.
 
-09h15 - Accueil des équipes
+- 09h15 - Accueil des équipes
 - 11h00 - Réunion des directeurs sportifs
 - 11h30 – Réunion Presse
 - 12h00 - Réunion des pilotes

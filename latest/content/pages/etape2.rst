@@ -24,7 +24,7 @@ terrain relativement plat et à la merci du vent.
 .. raw:: html
 
    <iframe loading="lazy" style="width: 100%; height: 600px;"
-        src="https://veloviewer.com/routes/2913171707755542588/embed2"
+        src="https://veloviewer.com/routes/3015252929719584714/embed2"
         width="300" height="150" frameborder="0" scrolling="no"></iframe></p>
 
 
