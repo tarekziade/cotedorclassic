@@ -9,28 +9,22 @@ Informations pratiques
 
 La Côte d'Or Classic Juniors c'est:
 
-- 1200m de pavés
-- 16% de pente maximale
-- 200 km dans le week-end
-- 7 nationalités
+- 2100m de D+
+- 215 km dans le week-end
 
 `Télécharger le guide technique </images/livret.pdf>`_
-
-Equipes sélectionnées
-=====================
-
-.. image::
-   /images/equipes.jpg
 
 Lieu de rendez-vous
 ===================
 
-Rendez-vous le Samedi 16 avril à la salle des fêtes de Darois.
+Rendez-vous le samedi 15 avril à l’Espace Jean Bertin, 21210 Saulieu.
 
-- 10h - Accueil des équipes
-- 11h45 - Réunion des directeurs sportifs
-- 12h20 - Réunion des pilotes
-- 13h00 - Présentations et signatures des équipes
+09h15 - Accueil des équipes
+- 11h00 - Réunion des directeurs sportifs
+- 11h30 – Réunion Presse
+- 12h00 - Réunion des pilotes
+- 12h00 - Présentations et signatures des équipes
+- 13h30 – Départ fictif
 
 
 `Mentions légales </pages/mentions.html>`_
