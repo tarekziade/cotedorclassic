@@ -17,6 +17,13 @@ A cette occasion, nous avons redoublé d’exigence. A commencer par le parcours
 certainement plus relevé avec 2 100m D+ pour 215km mais encore plus beau et
 diversifié.
 
+.. raw:: html
+
+  <div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1oj26uKegvI"
+    autoplay="1" frameborder="0" allowfullscreen></iframe>
+  </div>
+
 La première étape sera une parfaite visite touristique du Morvan.
 Les passages aux bords des lacs de Chamboux, Champeau et St Agnan, entre les
 forêts de sapins. La beauté et au bonheur de nos juniors, la dureté des
