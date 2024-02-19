@@ -68,9 +68,9 @@ HERO = [
 ]
 
 ABOUT = {
-  'mail': 'cotedorclassicjuniors@gmail.com',
-  'phone': '07.68.97.14.35',
-  'text': 'Contacter Anthony',
+    "mail": "cotedorclassicjuniors@gmail.com",
+    "phone": "07.68.97.14.35",
+    "text": "Contacter Anthony",
 }
 
 # navigation and homepage options
@@ -79,36 +79,37 @@ DISPLAY_PAGES_ON_HOME = False
 DISPLAY_CATEGORIES = False
 DISPLAY_TAGS = False
 USE_FOLDER_AS_CATEGORY = True
-PAGE_ORDER_BY = 'order'
+PAGE_ORDER_BY = "order"
 
 
 MENUITEMS = [
-  ('Présentation', 'pages/presentation.html'),
-  ('Étape 1', 'pages/etape1.html'),
-  ('Étape 2', 'pages/etape2.html'),
-  ('Étape 3', 'pages/etape3.html'),
-  ('Infos', 'pages/infos.html'),
-  ('Partenaires', 'pages/partenaires.html'),
-  ('Livret Public', 'images/livret_public.pdf'),
-  ('Contact', 'contact.html'),
-  ('A propos', 'pages/mentions.html'),
-  ('Épreuve 2023', '/index.html'),
-  ]
+    ("Présentation", "pages/presentation.html"),
+    ("Étape 1", "pages/etape1.html"),
+    ("Étape 2", "pages/etape2.html"),
+    ("Étape 3", "pages/etape3.html"),
+    ("Infos", "pages/infos.html"),
+    ("Partenaires", "pages/partenaires.html"),
+    ("Livret Public", "images/livret_public.pdf"),
+    ("Contact", "contact.html"),
+    ("A propos", "pages/mentions.html"),
+    ("Épreuve 2024", "/index.html"),
+    ("Épreuve 2023", "/2023/index.html"),
+]
 
 DIRECT_TEMPLATES = [
-  'index',
-  #'tags',
-  #'categories',
-  #'authors',
-  #'archives',
-  'search', # needed for tipue_search plugin
-  'contact' # needed for the contact form
+    "index",
+    #'tags',
+    #'categories',
+    #'authors',
+    #'archives',
+    "search",  # needed for tipue_search plugin
+    "contact",  # needed for the contact form
 ]
 
 SOCIAL = (
-  ('Facebook', 'https://www.facebook.com/lacotedorclassicjuniors'),
-  ('Instagram', 'https://instagram.com/lacotedorclassicjuniors'),
+    ("Facebook", "https://www.facebook.com/lacotedorclassicjuniors"),
+    ("Instagram", "https://instagram.com/lacotedorclassicjuniors"),
 )
 
 
-GOOGLE_MAPS_KEY = False   #'AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA'
+GOOGLE_MAPS_KEY = False  #'AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA'
