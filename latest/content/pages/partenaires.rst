@@ -22,9 +22,6 @@ Collectivites
         <img class="partenaire" src="/images/partenaires/semur.png"/>
       </div>
       <div class="col-md-4 text-center">
-        <img class="partenaire" src="/images/partenaires/oms.png"/>
-      </div>
-      <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/pouilly.png"/>
       </div>
 
@@ -77,7 +74,9 @@ Partenaires majeurs
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/groupama.png"/>
       </div>
-
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/corai.png"/>
+      </div>
 
     </div>
   </div>
@@ -128,9 +127,6 @@ Partenaires officiels
         <img class="partenaire" src="/images/partenaires/gamm-vert.png"/>
       </div>
        <div class="col-md-4 text-center">
-        <img class="partenaire" src="/images/partenaires/credit-mutuel.png"/>
-      </div>
-       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/chef-de-file-custom.png"/>
       </div>
        <div class="col-md-4 text-center">
@@ -139,14 +135,8 @@ Partenaires officiels
        <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/centre-auto.png"/>
       </div>
-       <div class="col-md-4 text-center">
-        <img class="partenaire" src="/images/partenaires/caisse-epargne.png"/>
-      </div>
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/brasserie-inter.png"/>
-      </div>
-      <div class="col-md-4 text-center">
-        <img class="partenaire" src="/images/partenaires/corai.png"/>
       </div>
     </div>
   </div>

@@ -17,14 +17,11 @@ La Côte d'Or Classic Juniors c'est:
 Lieu de rendez-vous
 ===================
 
-Rendez-vous le samedi 15 avril à l’Espace Jean Bertin, 21210 Saulieu.
+Rendez-vous le Vendredi 7 Juin à l’Espace Jean Bertin, 21210 Saulieu.
 
-- 09h15 - Accueil des équipes
-- 11h00 - Réunion des directeurs sportifs
-- 11h30 – Réunion Presse
-- 12h00 - Réunion des pilotes
-- 12h00 - Présentations et signatures des équipes
-- 13h30 – Départ fictif
+- 15h45 - Accueil des équipes
+- 18h30 - Réunion des directeurs sportifs
+- 19h - Réunion des pilotes
 
 
 `Mentions légales </pages/mentions.html>`_
