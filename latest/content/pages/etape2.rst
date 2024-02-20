@@ -1,25 +1,21 @@
-Étape 2 ~ 16 avril matin
-########################
+Étape 2 ~ 8 Juin
+################
 
 :order: 2
 :icon: icon-compass
-:summary: Époisses ➔ Époisses
+:summary: MuséoParc d’Alésia ➔ Vitteaux
 :slug: etape2
 :image: /images/coureurs-3.jpg
 
-- **Distance** 17km
-- **Dénivelé** 100m
-- **Départ** 8h30
-- **Arrivée dernière équipe** ~11h00
-- **Protocole** 11h15
+- **Distance** 18km
+- **Dénivelé** 140m
+- **Départ** 15h45
+- **Arrivée** ~17h30 Place de la maire
+- **Protocole** 18h
 
-Principal changement pour cette deuxième édition, le contre-la-montre
-individuel à Epoisses permettra de répondre à l’envie de la municipalité,
-accueillir notre épreuve afin de réaliser un événement populaire et festif pour
-les habitants.
+L'étape contre-la-montre débute au Muséoparc d'Alésia, où l'histoire romaine s'anime. Les
+coureurs rejoignent ensuite Vitteaux. Le parcours très plat va permettre
 
-Ce théâtre du contre-la-montre individuel est un parcours de 17km, sur un
-terrain relativement plat et à la merci du vent.
 
 .. raw:: html
 

@@ -1,5 +1,5 @@
-Étape 1 - 15 avril
-##################
+Étape 1 - 8 Juin
+################
 
 :order: 1
 :icon: icon-compass
@@ -7,11 +7,11 @@
 :slug: etape1
 :image: /images/coureurs-2.jpg
 
-- **Distance** 115km
-- **Dénivelé** 1340m
-- **Départ** 13h30
-- **Arrivée** ~15h40 rue de l’église à Précy-sous-Thil
-- **Protocole** 17h15
+- **Distance** 82km
+- **Dénivelé** 1040m
+- **Départ** 9h30
+- **Arrivée** ~11h30 rue de l’église à Précy-sous-Thil
+- **Protocole** 12h
 
 
 Avec cette première étape, le peloton réalisera une visite touristique du

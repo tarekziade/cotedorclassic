@@ -43,7 +43,7 @@ RELATIVE_URLS = True
 HERO = [
     {
         "image": "/images/hero/background-1.jpg",
-        "title": "15 Avril ~ Étape 1",
+        "title": "8 Juin ~ Étape 1",
         "text": "Saulieu ➔ Précy-sous-Thil",
         "links": [
             {"icon": "icon-code", "url": "/pages/etape1.html", "text": "Détails"}
@@ -51,15 +51,15 @@ HERO = [
     },
     {
         "image": "/images/hero/background-2.jpg",
-        "title": "16 avril ~ Étape 2",
-        "text": "Époisses ➔ Époisses",
+        "title": "8 Juin ~ Étape 2",
+        "text": "MuséoParc d’Alésia  ➔ Vitteaux",
         "links": [
             {"icon": "icon-code", "url": "/pages/etape2.html", "text": "Détails"}
         ],
     },
     {
         "image": "/images/hero/background-3.jpg",
-        "title": "16 Avril ~ Étape 3",
+        "title": "9 Juin ~ Étape 3",
         "text": "Pouilly-en-Auxois ➔ Semur-en-Auxois",
         "links": [
             {"icon": "icon-code", "url": "/pages/etape3.html", "text": "Détails"}

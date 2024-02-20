@@ -34,6 +34,8 @@ cette aventure en tant que spectateurs enthousiastes, que bénévole dévoué, o
 et célébrons ensemble les atouts de notre région.
 
 
+-- Anthony DE VECCHI Directeur de la Côte d’Or Classic Juniors
+
 .. raw:: html
 
   <div class="video-container">
@@ -41,4 +43,3 @@ et célébrons ensemble les atouts de notre région.
     autoplay="1" frameborder="0" allowfullscreen></iframe>
   </div>
 
--- Anthony DE VECCHI Directeur de la Côte d’Or Classic Juniors

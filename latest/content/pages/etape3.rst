@@ -1,5 +1,5 @@
-Étape 3 ~ 16 avril après-midi
-#############################
+Étape 3 ~ 9 Juin
+################
 
 :order: 3
 :icon: icon-compass
@@ -7,11 +7,13 @@
 :slug: etape3
 :image: /images/semur.jpg
 
-- **Distance** 84km
-- **Dénivelé** 1140m
-- **Départ** 14h40
-- **Arrivée** ~15h30
-- **Protocole** 17h00
+- **Distance** 100km
+- **Dénivelé** 1240m
+- **Départ** 11h45
+- **Arrivée dans Semur-En-Auxois** ~13h
+- **Circuit Final** 11km ~ 3 tours
+- **Arrivée** ~15h Intermarché
+- **Protocole** 15h30
 
 
 L’ultime étape du dimanche de cette deuxième édition, entre Pouilly-en-Auxois
