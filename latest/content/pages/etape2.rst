@@ -13,8 +13,11 @@
 - **Arrivée** ~17h30 Place de la maire
 - **Protocole** 18h
 
-L'étape contre-la-montre débute au Muséoparc d'Alésia, où l'histoire romaine s'anime. Les
-coureurs rejoignent ensuite Vitteaux. Le parcours très plat va permettre
+Fort d'une étroite collaboration avec le MuséoParc Alésia, ce contre-la-montre par équipe crée
+un lien entre la culture et le sport, d'autant plus pertinent en cette année olympique.
+
+Ces 18 kilomètres empruntant les routes de la 8ème étape du Tour de France 2024,
+couronneront une équipe entraînée face aux défis du vent.
 
 
 .. raw:: html
