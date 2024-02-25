@@ -74,8 +74,13 @@ Partenaires majeurs
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/groupama.png"/>
       </div>
+
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/corai.png"/>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/fringale.png"/>
       </div>
 
     </div>
@@ -138,6 +143,17 @@ Partenaires officiels
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/brasserie-inter.png"/>
       </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/vm.png"/>
+      </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/berger.png"/>
+      </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/ce-design.png"/>
+      </div>
+
+
     </div>
   </div>
 
