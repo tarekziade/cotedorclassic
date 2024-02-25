@@ -23,7 +23,7 @@ couronneront une équipe entraînée face aux défis du vent.
 .. raw:: html
 
    <iframe loading="lazy" style="width: 100%; height: 600px;"
-        src="https://veloviewer.com/routes/3065080687331767798/embed2"
+        src="https://veloviewer.com/routes/3196880537930494048/embed2"
         width="300" height="150" frameborder="0" scrolling="no"></iframe></p>
 
 
