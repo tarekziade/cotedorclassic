@@ -89,7 +89,7 @@ MENUITEMS = [
     ("Étape 3", "pages/etape3.html"),
     ("Infos", "pages/infos.html"),
     ("Partenaires", "pages/partenaires.html"),
-    ("Livret Public", "images/Livret-public-COCJ-2023.pdf"),
+    # ("Livret Public", "images/Livret-public-COCJ-2023.pdf"),
     ("Contact", "contact.html"),
     ("A propos", "pages/mentions.html"),
     ("Épreuve 2023", "2023/index.html"),
