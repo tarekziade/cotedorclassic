@@ -24,6 +24,12 @@ Collectivites
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/pouilly.png"/>
       </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/saulieu.png"/>
+      </div>
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/museoparc.png"/>
+      </div>
 
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/bcf.png"/>
@@ -40,6 +46,11 @@ Partenaires majeurs
 
   <div class="container partenaires">
     <div class="row">
+
+      <div class="col-md-4 text-center">
+        <img class="partenaire" src="/images/partenaires/essence.png"/>
+      </div>
+
 
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/aeropix.png"/>
@@ -99,10 +110,6 @@ Partenaires officiels
 
       <div class="col-md-4 text-center">
         <img class="partenaire" src="/images/partenaires/dynatest.png"/>
-      </div>
-
-      <div class="col-md-4 text-center">
-        <img class="partenaire" src="/images/partenaires/polytherm.png"/>
       </div>
 
       <div class="col-md-4 text-center">
