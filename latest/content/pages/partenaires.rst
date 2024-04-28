@@ -87,7 +87,10 @@ Partenaires majeurs
       </div>
 
       <div class="col-md-4 text-center">
+        <a href="https://www.corai-fibre.fr/">
         <img class="partenaire" src="/images/partenaires/corai.png"/>
+        <div>👉 Passez à la Fibre Optique avec Coraï</div>
+        </a>
       </div>
 
       <div class="col-md-4 text-center">
