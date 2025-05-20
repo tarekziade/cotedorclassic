@@ -12,7 +12,7 @@ La Côte d'Or Classic Juniors c'est:
 - 2100m de D+
 - 215 km dans le week-end
 
-`Télécharger le guide technique </images/guide-2024.pdf>`_
+`Télécharger le guide technique </2024/images/guide-2024.pdf>`_
 
 Lieu de rendez-vous
 ===================

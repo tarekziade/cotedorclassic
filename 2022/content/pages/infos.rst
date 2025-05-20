@@ -14,7 +14,7 @@ La Côte d'Or Classic Juniors c'est:
 - 200 km dans le week-end
 - 7 nationalités
 
-`Télécharger le guide technique </images/livret.pdf>`_
+`Télécharger le guide technique </2022/images/livret.pdf>`_
 
 Equipes sélectionnées
 =====================
