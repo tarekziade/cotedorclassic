@@ -6,9 +6,9 @@ YEARS_LIST = ["2025", "2024", "2023", "2022"]
 YEARS = {
     "2025": {
         "ETAPES": [
-            ("7 Juin ~ Étape 1", "Ville A ➔ Ville B"),
-            ("8 Juin ~ Étape 2", "Ville C ➔ Ville D"),
-            ("9 Juin ~ Étape 3", "Ville E ➔ Ville F"),
+            ("8 Juin ~ Étape 1", "Saulieu ➔ Précy-sous-Thil"),
+            ("8 Juin ~ Étape 2", "Pouillenay ➔ MuseoParc d’Alésia"),
+            ("9 Juin ~ Étape 3", "Pouilly-en-Auxois ➔ Semur-en-Auxois"),
         ],
         "LOGO": "/images/logo.svg",
         "LIVRET": "/images/livret-2025.pdf",

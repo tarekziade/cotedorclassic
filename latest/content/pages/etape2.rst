@@ -3,15 +3,15 @@
 
 :order: 2
 :icon: icon-compass
-:summary: MuséoParc d’Alésia ➔ Vitteaux
+:summary: Pouillenay ➔ MuséoParc d’Alésia
 :slug: etape2
 :image: /images/coureurs-3.jpg
 
-- **Distance** 18km
-- **Dénivelé** 140m
-- **Départ** 15h45
-- **Arrivée** ~17h30 Place de la maire
-- **Protocole** 18h
+- **Distance** 15km
+- **Dénivelé** 200m
+- **Départ** 15h30
+- **Arrivée** ~17h50 MuséoParc d’Alésia
+- **Protocole** 18h15
 
 Fort d'une étroite collaboration avec le MuséoParc Alésia, ce contre-la-montre par équipe crée
 un lien entre la culture et le sport, d'autant plus pertinent en cette année olympique.
@@ -23,7 +23,7 @@ couronneront une équipe entraînée face aux défis du vent.
 .. raw:: html
 
    <iframe loading="lazy" style="width: 100%; height: 600px;"
-        src="https://veloviewer.com/routes/3196880537930494048/embed2"
+        src="https://veloviewer.com/routes/3325020983358877734/embed2"
         width="300" height="150" frameborder="0" scrolling="no"></iframe></p>
 
 

@@ -7,13 +7,13 @@
 :slug: etape3
 :image: /images/semur.jpg
 
-- **Distance** 100km
-- **Dénivelé** 1240m
-- **Départ** 11h45
-- **Arrivée dans Semur-En-Auxois** ~13h
+- **Distance** 110km
+- **Dénivelé** 1626m
+- **Départ** 11h50
+- **Arrivée dans Semur-En-Auxois** ~14h
 - **Circuit Final** 11km ~ 3 tours
-- **Arrivée** ~15h Intermarché
-- **Protocole** 15h30
+- **Arrivée** ~14h30 
+- **Protocole** 15h
 
 
 L’ultime étape du dimanche de cette deuxième édition, entre Pouilly-en-Auxois
@@ -32,7 +32,7 @@ professionnels qui s’étaient déroulés ici en 2008.
 .. raw:: html
 
    <iframe loading="lazy" style="width: 100%; height: 600px;"
-        src="https://veloviewer.com/routes/3196880044863298628/embed2"
+        src="https://veloviewer.com/routes/3324905970438247796/embed2"
         width="300" height="150" frameborder="0" scrolling="no"></iframe></p>
 
 
